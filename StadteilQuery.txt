@@ -1,0 +1,9 @@
+
+area["name"="London"]["admin_level" ="6"];
+relation["boundary"="administrative"]["admin_level"="8"](area);
+/*added by auto repair*/
+(._;>;);
+/*end of auto repair*/
+out;
+/*added by auto repair*/
+
